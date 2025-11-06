@@ -26,7 +26,7 @@ import ngrokLogo from './assets/tech_logo/ngrok.png';
 import nginxLogo from './assets/tech_logo/nginx.png';
 
 // Experience Section Logo's
-import rpicLogo from './assets/company_logo/rpicLogo.png';
+import rpicLogo from './assets/company_logo/rpiclogo.png';
 
 
 // Education Section Logo's
